@@ -25,15 +25,15 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/jupyter-icon.svg" alt="Jupyter Notebook" width="65" height="65" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width="65" height="65" />
       <br>Jupyter Notebook
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" alt="PyTorch" width="65" height="65" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="65" height="65" />
       <br>PyTorch
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/scikit-icon.svg" alt="scikit-learn" width="65" height="65" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="65" height="65" />
       <br>scikit-learn
     </td>
   </tr>
