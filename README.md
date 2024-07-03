@@ -39,7 +39,7 @@ I have been learning to code for 4 years, specializing mainly in Machine Learnin
   </tr>
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnauAlti&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnauAlti&show_icons=true&theme=dark)
 
 
 
