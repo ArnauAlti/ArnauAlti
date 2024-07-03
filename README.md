@@ -5,7 +5,10 @@ Welcome to my github repository
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5mcnZzMXN2c3RtZ2hycjM5bmgzdmlrZnpzdG03aWRvNzZhcmc3aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.webp" width="200"/>
 </div>
 
+I have been learning code for 3 years, I am mainly specialized in Android development and cross-platform development. I am always curious to learn and improve.
 
+- 🌍  I'm based in Spain
+- ✉️  You can contact me at [ArnauAltiRu@gmail.com](mailto:[ArnauAltiRu@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnauAlti&show_icons=true&theme=radical)
 
