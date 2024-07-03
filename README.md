@@ -5,7 +5,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5mcnZzMXN2c3RtZ2hycjM5bmgzdmlrZnpzdG03aWRvNzZhcmc3aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.webp" width="200"/>
 </div>
 
-I have been learning code for 3 years, I am mainly specialized in Android development and cross-platform development. I am always curious to learn and improve.
+I have been learning to code for 4 years, specializing mainly in Machine Learning and Deep Learning development. I am finishing my Computer Science degree and always looking to learn state-of-the-art techniques and new things every day.
 
 - 🌍  I'm based in Spain
 - ✉️  You can contact me at [ArnauAltiRu@gmail.com](mailto:[ArnauAltiRu@gmail.com)
