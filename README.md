@@ -1,5 +1,5 @@
-## Arnau Altimira Rubio
-Hi 👋 and welcome to my GitHub
+# Arnau Altimira Rubio
+### Hi 👋 and welcome to my GitHub
 
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5mcnZzMXN2c3RtZ2hycjM5bmgzdmlrZnpzdG03aWRvNzZhcmc3aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.webp" width="200"/>
