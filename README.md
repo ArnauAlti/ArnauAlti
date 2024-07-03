@@ -10,16 +10,6 @@ I have been learning to code for 4 years, specializing mainly in Machine Learnin
 - 🌍  I'm based in Spain
 - ✉️  You can contact me at [ArnauAltiRu@gmail.com](mailto:[ArnauAltiRu@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnauAlti&show_icons=true&theme=radical)
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArnauAlti&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## My favorite tools and technologies ⚙️
-
-> Tools and technologies that I have worked with and am interested in:
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -48,6 +38,18 @@ I have been learning to code for 4 years, specializing mainly in Machine Learnin
     </td>
   </tr>
 </table>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnauAlti&show_icons=true&theme=radical)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArnauAlti&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## My favorite tools and technologies ⚙️
+
+> Tools and technologies that I have worked with and am interested in:
+
+
 
 <b>My LeetCode Stats</b>
 
